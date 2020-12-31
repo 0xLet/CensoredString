@@ -19,3 +19,4 @@ print(CensoredString(bacon_ipsum).censored)
 ### Example Output
 ```
 "***** ipsum dolor amet chicken doner buffalo capicola, ribeye hamburger t-bone flank sausage **** chop tri-tip. Spare ribs filet mignon tri-tip short loin venison biltong ball tip tongue leberkas. Short ribs shoulder doner tongue sirloin beef ribs biltong tail picanha kevin. **** jowl porchetta salami tri-tip ribeye. Short loin burgdoggen shank ground round spare ribs jowl shoulder **** belly andouille. Capicola ***** brisket prosciutto. Chicken ham beef ribs, brisket short loin shank t-bone kevin **** loin."
+```
