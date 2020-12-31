@@ -1,3 +1,3 @@
 # CensoredString
 
-A description of this package.
+Quick way to censor occurrences of certain words.
